@@ -71,10 +71,10 @@
 </a>  
 </div>
 <div>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/></p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/>
+</div>
+<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj" /></p>
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj"/></div>
 </div>
