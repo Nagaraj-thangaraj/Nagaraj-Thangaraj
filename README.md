@@ -73,10 +73,7 @@
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50px" height="50px"/>
 </a>  
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/>
-</div>
-<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/>
-</div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/></div>
+<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/></div>
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj"/></div>
 
