@@ -55,7 +55,7 @@
 <img src="https://avatars.githubusercontent.com/u/4129662?s=280&v=4" alt="moment.js" width="50" height="50"/>
 </a> 
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://iconduck.com/icons/27696/moment-js?shared" alt="Chart.JS" width="50px" height="50px"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" width="50px" height="50px"/>
 </a> 
 </div>
 <div style="display:"flex , justify-content: space-between">
