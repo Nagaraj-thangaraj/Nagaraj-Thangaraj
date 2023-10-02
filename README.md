@@ -26,7 +26,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ven.efx" height="30" width="40" />
 </a>  
 </p>
-<div>
+<div style="display:"flex , justify-content: space-between">
 <h3 align="left">Languages </h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -40,7 +40,7 @@
 </a> 
 </p>
 </div>
-<div>
+<div style="display:"flex , justify-content: space-between">
 <h3 align="left">Library and FrameWorks </h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/>
@@ -55,7 +55,7 @@
 <img src="https://avatars.githubusercontent.com/u/4129662?s=280&v=4" alt="moment.js" width="40" height="40"/>
 </a> 
 </div>
-<div>
+<div style="display:"flex , justify-content: space-between">
 <h3 align="left">Tools I Use </h3>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://miro.medium.com/v2/resize:fit:512/1*_T_tWFGY29J6MEKek1vBaw.png" alt="VS Code" width="50px" height="50px"/>
