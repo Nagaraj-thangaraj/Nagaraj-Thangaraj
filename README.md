@@ -72,6 +72,9 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50px" height="50px"/>
 </a>  
+<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://i.pinimg.com/736x/49/ec/a9/49eca9ad56cc425df970d10bee3ab155.jpg" alt="Chart.JS" width="50px" height="50px"/>
+</a> 
 </div>
 <div>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/></div>
