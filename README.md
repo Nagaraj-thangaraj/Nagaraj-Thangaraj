@@ -63,6 +63,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png" alt="Git" width="50px" height="50px"/>
 </a>
+<a href="https://github.com/Nagaraj-thangaraj" target="_blank" rel="noreferrer"> 
+<img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" alt="GitHu" width="50px" height="50px"/>
+</a>  
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Git" width="50px" height="50px"/>
 </a>
