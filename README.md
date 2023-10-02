@@ -42,31 +42,27 @@
 </div>
 <div style="display:"flex , justify-content: space-between">
 <h3 align="left">Library and FrameWorks </h3>
-<div>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/>
 </a>
-</div>
-<div>
+
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> 
-</div>
-<div>
+
+
 <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> 
 <img src="https://v4.mui.com/static/logo.png" alt="material UI" width="40" height="40"/>
 </a> 
-</div>
- <div>
+
 <a href="https://momentjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://avatars.githubusercontent.com/u/4129662?s=280&v=4" alt="moment.js" width="40" height="40"/>
 </a> 
-</div> 
- <div>
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://i.pinimg.com/736x/49/ec/a9/49eca9ad56cc425df970d10bee3ab155.jpg" alt="Chart.JS" width="50px" height="50px"/>
 </a> 
-</div> 
 </div>
 <div style="display:"flex , justify-content: space-between">
 <h3 align="left">Tools I Use </h3>
