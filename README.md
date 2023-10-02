@@ -73,8 +73,8 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/>
 </div>
-<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/></div>
-
+<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/>
+</div>
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj"/>
 </div>
 
