@@ -79,6 +79,6 @@
 <div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/>
 </div>
 <div> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&show_icons=true&local=en" alt="nagaraj-thangaraj"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj"/>
 </div>
 
