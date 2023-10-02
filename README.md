@@ -41,7 +41,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/>
 </a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> 
@@ -51,6 +50,18 @@
 <a href="https://momentjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://avatars.githubusercontent.com/u/4129662?s=280&v=4" alt="moment.js" width="40" height="40"/>
 </a> 
+</div>
+<div>
+<h3 align="left">Tools I Use </h3>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/v2/resize:fit:512/1*_T_tWFGY29J6MEKek1vBaw.png" alt="VS Code" width="50px" height="50px"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png" alt="Git" width="50px" height="50px"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Git" width="50px" height="50px"/>
+</a>
 </div>
 <div>
 <p>
