@@ -52,7 +52,7 @@
 <img src="https://v4.mui.com/static/logo.png" alt="material UI" width="50" height="50"/>
 </a> 
 <a href="https://momentjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://avatars.githubusercontent.com/u/4129662?s=280&v=4" alt="moment.js" width="50" height="50"/>
+<img src="https://images.credly.com/images/119585be-6dfb-4025-8881-11dc7915a936/moment.png" alt="moment.js" width="50" height="50"/>
 </a> 
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" width="50px" height="50px"/>
