@@ -67,7 +67,7 @@
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Git" width="50px" height="50px"/>
 </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" alt="Vercel" width="50px" height="50px"/>
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50px" height="50px"/>
 </a>  
 </div>
 <div>
