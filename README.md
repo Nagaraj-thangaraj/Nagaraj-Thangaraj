@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/nagaraj-thangaraj-2ba836247/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://discord.com/Ven.efx#3622" target="blank">
+<a href="https://discord.com/channels/@me" target="blank">
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-discord-2474808-2056094.png" alt="Discord" height="40" width="40" />
 </a>
 <a href="https://instagram.com/ven.efx" target="blank">
