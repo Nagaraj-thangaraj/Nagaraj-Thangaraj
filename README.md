@@ -21,7 +21,6 @@ new Person({
     name   : 'Nagaraj T',
     title  : 'FRONT END DEVELOPER',
     email  : 'nagarajthangaraj872@gmail.com',
-   website: 'https://react-port-tau.vercel.app/',
     junior : !!!false,
 }).introduce();
 ```
