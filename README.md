@@ -147,11 +147,11 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--x axis divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics📈</h3>
 <div align="center">
-<a href="https://github.com/ajin597">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajin597&theme=2077" height="180em" />
+<a href="https://github.com/nagaraj-thangaraj">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagaraj-thangaraj&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajin597&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajin597&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagaraj-thangaraj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagaraj-thangaraj&theme=2077" height="180em" />
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Support me -->
@@ -178,7 +178,7 @@ Welcome to my collection of handwritten notes for web development! These notes a
 
 If you find these handwritten notes valuable, enhance your learning experience by purchasing them! Your purchase supports the creation of more content and helps me improve these notes. Thank you for your support!
 
-[![image](https://img.shields.io/badge/Shop%20Notes-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ajincosta) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ajincosta)
+<!--[![image](https://img.shields.io/badge/Shop%20Notes-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ajincosta) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ajincosta)-->
 
 
 
