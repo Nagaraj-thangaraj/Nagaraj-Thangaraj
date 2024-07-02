@@ -1,83 +1,196 @@
-<h1 align="center">Hi 👋, I'm Nagaraj Thangaraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraj-thangaraj&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraj-thangaraj" /> </p>
-<div align="right">
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="image" align="right" width="50%"/ >
-</div>
-<p align="left">
-<a href="https://twitter.com/" target="blank">
-<img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/>
-</a> 
-</p>
-- 🌱 I’m currently Working On **React JS ,Material UI **
 
-- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **nagarajthangaraj872@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nagaraj-thangaraj-2ba836247/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome! </h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nagaraj!;" />
+</h1>
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
 </a>
-<a href="https://discord.com/channels/@Ven.efx#3622" target="_blank">
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-discord-2474808-2056094.png" alt="Discord" height="40" width="40" />
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'india';
+
+new Person({
+    name   : 'Nagaraj T',
+    title  : 'FRONT END DEVELOPER',
+    email  : 'nagarajthangaraj872@gmail.com',
+   website: 'https://react-port-tau.vercel.app/',
+    junior : !!!false,
+}).introduce();
+```
+
+```cmd
+D:\Nagaraj> React.js
+Hi, my name is Nagaraj, I'm a Front End Developer from India.
+```
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=nagaraj-thangaraj) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/nagaraj-thangaraj?label=Followers) ![Stars](https://img.shields.io/github/stars/nagaraj-thangaraj?label=Stars)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                2411 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
+🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  677 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+React js               8 hrs 31 mins       █████████████████░░░░░░░░   67.96 % 
+JavaScript             2 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+TailwindCSS            50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   80.21 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24-06-2024 17:19:01 UTC
+<!--END_SECTION:waka-->
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Languages-Frameworks-Tools🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwindcss,react,git,vscode,figma,vercel,postman,materialui,vite,&perline=6" />
 </a>
-<a href="https://instagram.com/ven.efx" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ven.efx" height="30" width="40" />
-</a>  
 </p>
-<div style="display:"flex , justify-content: space-between">
-<h3 align="left">Languages </h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50px" height="50px"/>
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50px" height="50px"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/> 
-</a> 
-</p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=nagaraj-thangaraj&hide_border=true&type=png" alt="nagaraj" /></p>
+
+<div align="center">
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=nagaraj-thangaraj)](https://github.com/nagaraj-thangaraj/github-profile-trophy)
+
 </div>
-<div style="display:"flex , justify-content: space-between">
-<h3 align="left">Library and FrameWorks </h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50px" height="50px"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-</a> 
-<a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> 
-<img src="https://v4.mui.com/static/logo.png" alt="material UI" width="50" height="50"/>
-</a> 
-<a href="https://momentjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://images.credly.com/images/119585be-6dfb-4025-8881-11dc7915a936/moment.png" alt="moment.js" width="50" height="50"/>
-</a> 
-<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" width="50px" height="50px"/>
-</a> 
-</div>
-<div style="display:"flex , justify-content: space-between">
-<h3 align="left">Tools I Use </h3>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://miro.medium.com/v2/resize:fit:512/1*_T_tWFGY29J6MEKek1vBaw.png" alt="VS Code" width="50px" height="50px"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png" alt="Git" width="50px" height="50px"/>
-</a>
-<a href="https://github.com/Nagaraj-thangaraj" target="_blank" rel="noreferrer"> 
-<img src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" alt="GitHu" width="50px" height="50px"/>
-</a>  
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Git" width="50px" height="50px"/>
-</a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50px" height="50px"/>
-</a>  
-</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
 <div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaraj-thangaraj&show_icons=true&locale=en&layout=compact" alt="nagaraj-thangaraj"/></div>
-<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nagaraj-thangaraj&show_icons=true&locale=en" alt="nagaraj-thangaraj"/></div>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaraj-thangaraj&" alt="nagaraj-thangaraj"/></div></div>
+  <p align="center">
+	<a href="https://github.com/nagaraj-thangaraj/Movie-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=Movie-app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/nagaraj-thangaraj/landing-page-1">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=landing-page-1&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/nagaraj-thangaraj/food-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=food-app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/nagaraj-thangaraj/crypto-currency-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=crypto-currency-app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/nagaraj-thangaraj/Responsive-UI-Design">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=Responsive-UI-Design&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/ajin597/recipe">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=recipe&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/ajin597/movies">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=movies&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/ajin597/medicine">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=medicine&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraj-thangaraj-2ba836247/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ven.efx_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajthangaraj872@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9566469396)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=react&logoColor=white)](https://react-port-tau.vercel.app/)-->
+
+
+  
+</div>
+
+<!--x axis divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics📈</h3>
+<div align="center">
+<a href="https://github.com/ajin597">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajin597&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajin597&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajin597&theme=2077" height="180em" />
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">user contributions graph📈</h3>
+
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ajin597/ajin597/output/github-contribution-grid-snake-dark.svg" />
+  
+
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+
+
+# Handwritten Notes for Web Development
+
+Welcome to my collection of handwritten notes for web development! These notes are designed to help you learn and understand key concepts in web development with a personal touch.
+
+## Purchase Handwritten Notes
+
+If you find these handwritten notes valuable, enhance your learning experience by purchasing them! Your purchase supports the creation of more content and helps me improve these notes. Thank you for your support!
+
+[![image](https://img.shields.io/badge/Shop%20Notes-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ajincosta) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ajincosta)
+
+
+
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
+</div>
