@@ -124,12 +124,7 @@ Windows                  12 hrs 33 mins      ███████████�
     	<a href="https://github.com/ajin597/my-portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=my-portfolio&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/ajin597/movies">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=movies&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/ajin597/medicine">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=medicine&theme=transparent" alt="GitHub Stats" />
-    	</a>
+    
 </div>
 
 <!--x axis divider-->
