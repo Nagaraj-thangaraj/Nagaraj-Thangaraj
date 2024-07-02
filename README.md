@@ -140,7 +140,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraj-thangaraj-2ba836247/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ven.efx_)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ven.efx/_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajthangaraj872@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9566469396)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=react&logoColor=white)](https://react-port-tau.vercel.app/)-->
