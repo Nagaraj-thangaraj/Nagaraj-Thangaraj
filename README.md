@@ -186,6 +186,6 @@ If you find these handwritten notes valuable, enhance your learning experience b
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div align="center">
-    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
-</div>
+<!--<div align="center">
+    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Nagaraj</a>
+</div> -->
