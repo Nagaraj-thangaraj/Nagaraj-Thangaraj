@@ -80,7 +80,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwindcss,react,git,vscode,figma,vercel,postman,materialui,vite,&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwindcss,react,git,vscode,figma,vercel,postman,materialui,vite,wordpress,&perline=6" />
 </a>
 </p>
 
