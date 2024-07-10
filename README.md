@@ -120,7 +120,7 @@ Windows                  12 hrs 33 mins      ███████████�
     	<a href="https://github.com/nagaraj-thangaraj/Responsive-UI-Design">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=Responsive-UI-Design&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/ajin597/my-portfolio">
+    	<a href="https://github.com/nagaraj-thangaraj/my-portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=my-portfolio&theme=transparent" alt="GitHub Stats" />
     	</a>
     
