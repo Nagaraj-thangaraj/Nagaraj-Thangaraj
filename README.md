@@ -111,8 +111,8 @@ Windows                  12 hrs 33 mins      ███████████�
 	<a href="https://github.com/nagaraj-thangaraj/landing-page-1">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=landing-page-1&theme=transparent" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/nagaraj-thangaraj/food-app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=food-app&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/nagaraj-thangaraj/afflicate-project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=afflicate-project&theme=transparent" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/nagaraj-thangaraj/crypto-currency-app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nagaraj-thangaraj&repo=crypto-currency-app&theme=transparent" alt="GitHub Stats" />
